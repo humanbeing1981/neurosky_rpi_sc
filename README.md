@@ -1,6 +1,10 @@
 # neurosky_rpi_sc
 #INSTRUCTIONS ON HOW TO CONNECT NEUROSKY MINDWAVE TO RPI AND USE SUPERCOLLIDER TO MAKE MUSIC USING YOUR BRAINWAVES
 
+For further instruction on how to set up Rpi, SuperCollider etc please see:
+
+https://github.com/humanbeing1981/Rpi-SC-and-PIR-sensor/blob/master/README.md
+
 ##FIRST STEP
 
 

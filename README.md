@@ -52,7 +52,7 @@ and you should see the mindwave device (have it on pairing mode first)
 
 ##STEP THREE	
 
-Assuming you already habe a python script ready now its time to create an autostart procedure with crontab so every time you boot the Rpi It should run 4 things:
+Assuming you already have a python script ready now its time to create an autostart procedure with crontab so every time you boot the Rpi It should run 4 things:
 
 1. the jack driver
 2. the sc script

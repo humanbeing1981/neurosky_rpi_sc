@@ -71,9 +71,9 @@ Then paste the following:
 @reboot sleep 15; python /home/pi/mind_test.py &   #where (mind_test.py) shoyld be your python script file
 ```
 
-##THAT SHOULD DO IT (ps: sleep time may vary according to the time it takes for .scd code to load-boot)
+###THAT SHOULD DO IT (ps: sleep time may vary according to the time it takes for .scd code to load-boot)
 
-Reboot est voila!
+###Reboot est voila!
 
 
 
